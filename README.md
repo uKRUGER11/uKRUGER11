@@ -8,11 +8,6 @@
 ##
     
 ### Sou desenvolvedor Back-End Junior, atualmente estou cursando Engenharia da Computação. Essas são as tecnologias que eu uso: 
-<br/>
-<div>
-    <a href="https://github.com/uKRUGER11">
-    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ukruger11&layout=compact&langs_count=3&theme=github_dark"/>
-<div/>
 <div style="display: inline_block"><br/>
     <img align="center" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
     <img align="center" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -21,7 +16,13 @@
     <img align="center" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
     <img align="center" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
     <img align="center" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<div/><br/> 
+<div/> <br/>
+<br/>
+<div>
+    <a href="https://github.com/uKRUGER11">
+    <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ukruger11&layout=compact&langs_count=3&theme=github_dark"/>
+<div/>
+
 
     
     
