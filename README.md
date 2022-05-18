@@ -10,13 +10,7 @@
         
 ### Sou desenvolvedor de Software Back-End Junior, atualmente estou cursando Engenharia da Computação. Essas são as tecnologias que eu uso: 
 <br/>
-    
- <div align="center">
-      <a href="https://github.com/uKRUGER11">
-      <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ukruger11&theme=github_dark"/>
-       <a href="https://github.com/uKRUGER11">
-      <img height="140em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=ukruger11&layout=compact&langs_count=3&theme=github_dark"/>
- <div/> 
+
 <br/>
 <div align="center" valign="top" style="display: inline_block"><br/>
     <img align="center" alt="java" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
