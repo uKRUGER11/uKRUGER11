@@ -15,10 +15,10 @@
 <div align="center" valign="top" style="display: inline_block"><br/>
     <img align="center" alt="java" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
     <img align="center" alt="python" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" alt="nodejs" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
-    <img align="center" alt="django" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+    <!--<img align="center" alt="nodejs" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/> -->
+   <!-- <img align="center" alt="django" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/> -->
     <img align="center" alt="spring" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
-    <img align="center" alt="mongodb" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img align="center" alt="mongodb" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /> 
     <img align="center" alt="mysql" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
     <img align="center" alt="git" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <div/> 
