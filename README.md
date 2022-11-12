@@ -7,7 +7,7 @@
  </p>
 </div>
         
-### Sou desenvolvedor de Software Back-End, atualmente estou cursando Engenharia da Computação. Essas são as tecnologias que eu utilizo: 
+### Sou desenvolvedor de Software Back-End, atualmente estou cursando Engenharia da Computação.
 <br/>
 
 
