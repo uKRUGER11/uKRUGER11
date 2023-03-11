@@ -7,7 +7,7 @@
 
 </div>
   
-    <img src="https://dcbadge.vercel.app/api/shield/400131390294982657"/>
+<img src="https://dcbadge.vercel.app/api/shield/400131390294982657"/>
     
 ### I'm a Back-End Software developer. I'm currently studying Computer Science.
 <br/>
