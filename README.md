@@ -4,7 +4,7 @@
 <a href="mailto:krugergabriel278@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
 <img src="https://dcbadge.vercel.app/api/shield/400131390294982657"/><br/>
-</div><br/>
+</div>
 
 ### 🐱‍👤I'm a Back-End Software Developer.  
 ### 📚 I'm currently studying Computer Science.
