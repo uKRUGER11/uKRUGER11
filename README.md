@@ -1,24 +1,20 @@
 <div align="center">
     <h1>Welcome, my name is Gabriel Krüger!</h1>
-<a href="https://www.linkedin.com/in/gabriel-kruger-8b57a1224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/><a href="https://www.linkedin.com/in/gabriel-kruger-8b57a1224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:krugergabriel278@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://dcbadge.vercel.app/api/shield/400131390294982657"/>
-<br/>
-</div>
+<img src="https://dcbadge.vercel.app/api/shield/400131390294982657"/><br/>
+</div><br/>
 
-### 🐱‍👤I'm a Back-End Software developer. 
+### 🐱‍👤I'm a Back-End Software developer.  
 ### 📚 I'm currently studying Computer Science.
 
- 
- <div align="center">
-    <h2> My tools: </h2>
-    </div>
- 
-<div align="center" valign="top" style="display: inline_block" ><br/>
- <img align="center" alt="java" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> 
- <img align="center" alt="spring" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
- <img align="center" alt="mongodb" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" /> 
- <img align="center" alt="mysql" height="50" width="50" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<div style="display: inline_block" >
+    <h3>⌨ And I'm programming with these technologies:
+        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg">
+        <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
+    </h3>
 </div>
  
 
