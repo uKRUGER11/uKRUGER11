@@ -5,7 +5,7 @@
 <img src="https://dcbadge.vercel.app/api/shield/400131390294982657"/><br/>
 </div><br/>
 
-### 🐱‍👤I'm a Back-End Software developer.  
+### 🐱‍👤I'm a Back-End Software Developer.  
 ### 📚 I'm currently studying Computer Science.
 
 <div style="display: inline_block" >
