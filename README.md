@@ -1,10 +1,11 @@
 <div align="center">
     <h1>Welcome, my name is Gabriel Krüger!</h1>
-<br/><a href="https://www.linkedin.com/in/gabriel-kruger-8b57a1224/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<br/><a href="https://www.linkedin.com/in/gabrielkrugerdesouza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:krugergabriel278@gmail.com"/><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
 
 <img src="https://dcbadge.vercel.app/api/shield/400131390294982657"/><br/>
 </div>
+
 
 ### 🐱‍💻I'm a Back-End Software Developer.  
 ### 📚 I'm currently studying Computer Science.
