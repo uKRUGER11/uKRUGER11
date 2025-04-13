@@ -25,7 +25,7 @@
 ## 📌 **Main Projects**:
 
 ### 🛠️ DevSuite – Backend & Fullstack Projects  
-Projects developed using Java, Spring Boot, MongoDB, JDBC, RESTful APIs, JavaScript, and Node.js.
+Projects developed using Java, Spring Boot, JavaScript, Node.js, MongoDB, MySQL, RESTful APIs.
 
 ### 🛒 RetailPulse – Scalable Data Pipeline for Retail Analytics  
 End-to-end ETL and ML architecture using Python, CX_Oracle, and Oracle DB. Ingests data from APIs (e.g. Kaggle), integrates product and customer data, trains predictive models, and delivers insights through Power BI dashboards.
