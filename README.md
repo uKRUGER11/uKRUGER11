@@ -22,7 +22,7 @@
     </h3>
 </div>
 
-### 📌 **Main Projects**
+## 📌 **Main Projects**:
 
 ### 🛠️ DevSuite – Backend & Fullstack Projects  
 Projects developed using Java, Spring Boot, MongoDB, JDBC, RESTful APIs, JavaScript, and Node.js.
